@@ -1,0 +1,14 @@
+.a-events-date{
+    display: flex;
+    flex-wrap: wrap;
+}
+.a-events-date-item{
+    margin: 15px 30px;
+    margin-left: 0;
+}
+.events-number-input{
+    width:75px;
+}
+.a-events-excerpt-item textarea{ 
+    width: 100% !important;
+}
